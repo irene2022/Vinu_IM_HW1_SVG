@@ -1,0 +1,12 @@
+<svg id="star7" xmlns="http://www.w3.org/2000/svg" width="1.44in" height="1.38in" viewBox="0 0 103.93 99.46">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fc3;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+    </style>
+  </defs>
+  <path id="_7" data-name="7" class="cls-1" d="M44.77,31.61l7.59-14.67L59,31.13l-7.43,4Zm-11,16.69-1.45-8L16,42.3,27.8,54.24ZM69.64,48l6.67,6.39,11.4-10.7L70.79,40.89ZM40.81,69.32l-8.74-1.2L28.9,84.71l15.71-7.88ZM63,69.12l-4.11,8.53,14.35,7.91L70.54,68Z"/>
+</svg>
