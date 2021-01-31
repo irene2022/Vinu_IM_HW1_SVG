@@ -1,0 +1,146 @@
+.hidden
+{
+  display: none;
+}
+
+body
+{
+  font-size: 16px;
+}
+
+
+/* header */
+#mainHeader
+{
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  /* height: 100px; */
+  background: #000;
+}
+
+.logo
+{
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bolder;
+  margin-right: auto;
+  color: rgb(255,219,94);
+  padding: 20px;
+  font-size: 30px
+}
+
+/* #logo h2
+{
+  padding: 20px;
+  background-color: rgb(255,219,94);
+} */
+
+.mainNav
+{
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+
+}
+
+.mainNav ul
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  list-style: none;
+}
+
+.mainNav ul li
+{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.mainNav ul li a
+{
+  color: #fff;
+  text-decoration: none;
+  transition: all .2s ease-in-out;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.mainNav ul li a:hover
+{
+  background-color: rgb(255,219,94);
+  color: #000;
+}
+
+#description
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(255,219,94);
+  font-size: 20px;
+}
+
+#description h3
+{
+  font-size: 40px;
+  font-family: Aharoni, Arial, sans-serif;
+}
+
+.iconHolder
+{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.icon
+{
+  width: 40%;
+  display: inline-block;
+  padding: 1em;
+}
+
+.icon img, h3
+{
+  border-width: thin;
+  padding: 20px;
+}
+
+.icon h3
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  transition: all .2s ease-in-out;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.icon h3:hover
+{
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 10px;
+  background: rgb(255,219,94);
+  color: #000;
+}
+
+#mainFooter
+{
+  display: flex;
+  flex-direction: row;
+  background: #000;
+  color: #fff;
+}
+
+#mainFooter p
+{
+  margin-right: 50px;
+  margin-top: 20px;
+  text-align: center;
+}

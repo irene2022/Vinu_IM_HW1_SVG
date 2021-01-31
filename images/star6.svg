@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1.33in" height="1.28in" viewBox="0 0 95.71 91.82">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #ffcd34;
+        stroke: #010101;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <g id="star6">
+    <polygon id="_6" data-name="6" class="cls-1" points="70.23 74.51 48.29 62.44 25.91 73.66 30.62 49.07 13.03 31.26 37.87 28.13 49.38 5.9 60.02 28.56 84.73 32.63 66.47 49.76 70.23 74.51"/>
+  </g>
+  <g id="star6-sparkles">
+    <path id="sparkles" class="cls-2" d="M.53,51.83l20.91.09L4.66,64.4l4.22-8.35Zm86.38,4.34,8.27-4.37-20.9.47,17,12.16ZM24.82,9.76,15.61,8.18,32.46,20.56,26.4.54ZM74.43,10,73.28.69l-7,19.71L83.71,8.82ZM48.91,84.71l6.58,6.64L49,71.49,42.27,91.3Z"/>
+  </g>
+</svg>

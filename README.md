@@ -1,2 +1,4 @@
-# Vinu_IM_HW1_SVG
-Multimedia Authoring 2 homework #1
+# Multimedia Authoring2 - Homework 1
+
+## Description
+To create a website to display interactive icons.
